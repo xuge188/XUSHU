@@ -187,6 +187,59 @@
             "api": "./js/独播库.js"
         },
         {
+            "key": "123",
+            "name": "⛔二三┃旭叔",
+            "type": 3,
+            "api": "csp_PanWebShare12345",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "changeable": 0,
+            "style": {
+                "type": "list",
+                "ratio": 1.433
+            },
+            "ext": {
+                "site": [
+                    "https://123panfx.com",
+                    "https://pan1.me"
+                ]
+            },
+            "timeout": 60
+        },
+        {
+            "key": "渡盘社",
+            "name": "🎯佰渡┃旭叔",
+            "type": 3,
+            "api": "csp_PanWebQu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 0,
+            "style": {
+                "type": "list",
+                "ratio": 1.433
+            },
+            "ext": {
+                "url": "https://www.qupanshe.com"
+            },
+            "timeout": 60
+        },
+        {
+            "key": "双星",
+            "name": "📡双星┃旭叔",
+            "type": 3,
+            "api": "csp_ShuangXing",
+            "searchable": 1,
+            "quickSearch": 0,
+            "changeable": 0,
+            "filterable": 0,
+            "style": {
+                "type": "list"
+            },
+            "timeout": 60
+        },
+        {
             "key": "小斑快映",
             "name": "📽快映┃旭叔",
             "type": 3,
@@ -425,21 +478,6 @@
             "ext": "./json/xkf.json"
         },
         {
-            "key": "夸圈",
-            "name": "🧿夸圈┃旭叔",
-            "type": 3,
-            "api": "csp_PanWebShareCloudKQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 0,
-            "style": {
-                "type": "list",
-                "ratio": 1.433
-            },
-            "ext": "./json/kq.json"
-        },
-        {
             "key": "趣盘搜",
             "name": "🧿夸搜┃旭叔",
             "type": 3,
@@ -448,40 +486,8 @@
             "timeout": 60
         },
         {
-            "key": "渡盘社",
-            "name": "🎬佰渡┃旭叔",
-            "type": 3,
-            "api": "csp_PanWebQu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 0,
-            "style": {
-                "type": "list",
-                "ratio": 1.433
-            },
-            "ext": {
-                "url": "https://www.qupanshe.com"
-            },
-            "timeout": 60
-        },
-        {
-            "key": "双星",
-            "name": "🎬双星┃旭叔",
-            "type": 3,
-            "api": "csp_ShuangXing",
-            "searchable": 1,
-            "quickSearch": 0,
-            "changeable": 0,
-            "filterable": 0,
-            "style": {
-                "type": "list"
-            },
-            "timeout": 60
-        },
-        {
             "key": "指南",
-            "name": "🎬原盘┃旭叔",
+            "name": "🧿原盘┃旭叔",
             "type": 3,
             "api": "./py/指南.py",
             "searchable": 1,
